@@ -1,5 +1,4 @@
 import React from "react";
-import img from "./assets/profileimage.png";
 
 const DownloadImage = () => {
   const imageName = "profileimage.png"; // Replace with your image name
